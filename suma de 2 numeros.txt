@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>suma de 2 numeros</title>
+</head>
+<center>
+	<body >
+		<script>
+			n=0;
+			p=0;
+			suma=0;
+			n=parseInt(prompt("Introduce un numero: "))
+			p=parseInt(prompt("Introduce otro numero: "))
+			suma=n+p;
+			document.write("La suma de los numeros es igual a: "+suma+"<br>")
+			
+		</script>
+	</body>
+	</center>
+</html>
